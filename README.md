@@ -31,9 +31,9 @@ Chaque atelier est structuré autour de :
 3. Aucun environnement local n’est requis : tout fonctionne sur Google Colab avec un compte Google.  
 
 Chaque dossier contient :
-- Un **notebook principal** avec tout le code et les explications.  
+- Un **notebook `.ipynb` principal** avec tout le code et les explications.  
 - Un **README dédié** présentant les objectifs, le contenu et les livrables.  
-- Des **fichiers de données** nécessaires pour les analyses (lorsqu'applicable).
+- Un **dossier `/data` ** (s'il y a des fichiers nécessaires).
 
 ---
 
