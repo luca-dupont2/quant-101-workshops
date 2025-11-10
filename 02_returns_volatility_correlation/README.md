@@ -1,4 +1,6 @@
 # Quant 101 — Rendements, Volatilité et Corrélations
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/luca-dupont2/quant-101-workshops/blob/main/02_returns_volatility_correlation/returns_volatility_correlation.ipynb)
 
 ## Objectif
 Comprendre et manipuler les mesures fondamentales de la performance et du risque financier.  
