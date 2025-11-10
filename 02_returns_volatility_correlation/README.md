@@ -36,6 +36,5 @@ Un mini-dashboard Python affichant :
 ---
 
 ## À explorer ensuite
-## 💡 À explorer ensuite
 L’atelier suivant, **Régression linéaire et estimation de $\alpha$ et $\beta$**, appliquera ces notions pour quantifier la relation entre un actif et son indice de référence.  
 Tu y apprendras à mesurer la sensibilité d’un titre au marché, à interpréter le risque systématique et à introduire les fondements du modèle **CAPM**.
