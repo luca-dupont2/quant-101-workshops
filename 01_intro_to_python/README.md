@@ -1,4 +1,6 @@
 # Quant 101 — Introduction à Python pour la Finance
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/luca-dupont2/quant-101-workshops/blob/main/01_intro_to_python/intro_to_python.ipynb)
 
 ## Objectif
 Découvrir l’écosystème Python appliqué à la finance quantitative.  
