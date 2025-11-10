@@ -33,7 +33,7 @@ Chaque atelier est structuré autour de :
 Chaque dossier contient :
 - Un **notebook `.ipynb` principal** avec tout le code et les explications.  
 - Un **README dédié** présentant les objectifs, le contenu et les livrables.  
-- Un **dossier `/data` ** (s'il y a des fichiers nécessaires).
+- Un **dossier `/data`** (s'il y a des fichiers nécessaires).
 
 ---
 
@@ -52,7 +52,7 @@ Chaque notebook est un **projet autonome**, que tu peux adapter, réutiliser et 
 ---
 
 ##  À venir
-- Nouveaux ateliers à toute les semaines sur des sujets avancés.  
+- Nouveaux ateliers à toutes les semaines sur des sujets avancés.  
 - Ressources complémentaires (lectures, jeux de données, templates).  
 - Contributions ouvertes aux membres du club.
 
